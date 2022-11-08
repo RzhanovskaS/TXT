@@ -1,0 +1,7 @@
+Preferences:
+film - "Pirates of the Caribbean";
+series - "Friends";
+food - cheesburger;
+season - autumn;
+country to visit - Great Britain.
+
